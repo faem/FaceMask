@@ -1,0 +1,31 @@
+newmtl blinn3SG
+illum 4
+Kd 0.33 0.40 0.40
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.92 0.95 0.95
+newmtl blinn4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Lenses.png
+Ni 1.00
+Ks 1.00 0.99 0.98
+newmtl blinn5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Temples.jpg
+bump Temples_normal_map.jpg -bm 1
+Ni 1.00
+Ks 0.38 0.38 0.40
+newmtl blinn6SG
+illum 4
+Kd 0.51 0.48 0.41
+Ka 0.00 0.00 0.00
+Tf 0.74 0.74 0.74
+Ni 1.00
+Ks 0.90 0.96 0.97

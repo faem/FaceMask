@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: e3c98fee6ceff97479a377185dea5a0e
+timeCreated: 1520786466
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ankle_left
+    100002: ankle_right
+    100004: Armature
+    100006: Cinema4D_Editor
+    100008: clavicle_left
+    100010: clavicle_right
+    100012: elbow_left
+    100014: elbow_right_
+    100016: finger_left_index_a
+    100018: finger_left_index_b
+    100020: finger_left_index_c
+    100022: finger_left_index_c_end
+    100024: finger_left_others_a
+    100026: finger_left_others_b
+    100028: finger_left_others_c
+    100030: finger_left_others_c_end
+    100032: finger_left_thumb_a
+    100034: finger_left_thumb_b
+    100036: finger_left_thumb_c
+    100038: finger_left_thumb_c_end
+    100040: finger_right_index_a
+    100042: finger_right_index_b
+    100044: finger_right_index_c
+    100046: finger_right_index_c_end
+    100048: finger_right_others_a
+    100050: finger_right_others_b
+    100052: finger_right_others_c
+    100054: finger_right_others_c_end
+    100056: finger_right_thumb_a
+    100058: finger_right_thumb_b
+    100060: finger_right_thumb_c
+    100062: finger_right_thumb_c_end
+    100064: FLASH
+    100066: //RootNode
+    100068: head
+    100070: jaw
+    100072: jaw_end
+    100074: knee_left
+    100076: knee_right
+    100078: neck
+    100080: root_ground
+    100082: root_hips
+    100084: shoulder_left
+    100086: shoulder_right_
+    100088: spine_lower
+    100090: spine_middle
+    100092: spine_upper
+    100094: thigh_left
+    100096: thigh_right
+    100098: toes_left
+    100100: toes_left_end
+    100102: toes_right
+    100104: toes_right_end
+    100106: unused_leftpalm
+    100108: unused_leftpalm_end
+    100110: unused_reference
+    100112: unused_rightpalm
+    100114: unused_rightpalm_end
+    100116: wrist_left
+    100118: wrist_right
+    400000: ankle_left
+    400002: ankle_right
+    400004: Armature
+    400006: Cinema4D_Editor
+    400008: clavicle_left
+    400010: clavicle_right
+    400012: elbow_left
+    400014: elbow_right_
+    400016: finger_left_index_a
+    400018: finger_left_index_b
+    400020: finger_left_index_c
+    400022: finger_left_index_c_end
+    400024: finger_left_others_a
+    400026: finger_left_others_b
+    400028: finger_left_others_c
+    400030: finger_left_others_c_end
+    400032: finger_left_thumb_a
+    400034: finger_left_thumb_b
+    400036: finger_left_thumb_c
+    400038: finger_left_thumb_c_end
+    400040: finger_right_index_a
+    400042: finger_right_index_b
+    400044: finger_right_index_c
+    400046: finger_right_index_c_end
+    400048: finger_right_others_a
+    400050: finger_right_others_b
+    400052: finger_right_others_c
+    400054: finger_right_others_c_end
+    400056: finger_right_thumb_a
+    400058: finger_right_thumb_b
+    400060: finger_right_thumb_c
+    400062: finger_right_thumb_c_end
+    400064: FLASH
+    400066: //RootNode
+    400068: head
+    400070: jaw
+    400072: jaw_end
+    400074: knee_left
+    400076: knee_right
+    400078: neck
+    400080: root_ground
+    400082: root_hips
+    400084: shoulder_left
+    400086: shoulder_right_
+    400088: spine_lower
+    400090: spine_middle
+    400092: spine_upper
+    400094: thigh_left
+    400096: thigh_right
+    400098: toes_left
+    400100: toes_left_end
+    400102: toes_right
+    400104: toes_right_end
+    400106: unused_leftpalm
+    400108: unused_leftpalm_end
+    400110: unused_reference
+    400112: unused_rightpalm
+    400114: unused_rightpalm_end
+    400116: wrist_left
+    400118: wrist_right
+    2100000: 40_flashcw_0.1_0_0
+    4300000: FLASH
+    9500000: //RootNode
+    13700000: FLASH
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

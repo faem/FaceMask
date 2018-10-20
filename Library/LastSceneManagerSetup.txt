@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/sample-AugmentedFace.unity
+  isLoaded: 1
+  isActive: 1
